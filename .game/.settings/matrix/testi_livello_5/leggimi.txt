@@ -27,7 +27,8 @@ ______________________________________________________________________________
 |                       grep <personaggio> <personaggio>                      |
 |                                                                             |
 |               ho un output, quindi il nome compare all'interno              |
-|               del file di testo <personaggio>?                              |                                                                                                             |               Si -> cancello tutti i file tranne lui                        |
-|               No -> Non è il personaggio da cancellare                      |
+|               del file di testo <personaggio>?                              |
+|               Si -> cancello tutti i file tranne lui                        |
+|               No -> E' uno dei personaggi da cancellare                     |
 |                                                                             |
 |_____________________________________________________________________________|

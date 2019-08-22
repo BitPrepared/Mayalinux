@@ -30,6 +30,6 @@ ________________________________________________________________________________
 |		ho un output, quindi il nome compare all'interno                |
 |		del file di testo "sidious"?                                    |
 |		Si -> cancello tutti i file tranne lui                          |
-|		No -> Non è il personaggio da cancellare                        |
+|		No -> E' uno dei personaggi da cancellare                       |
 |                                                                               |
 |_______________________________________________________________________________|
