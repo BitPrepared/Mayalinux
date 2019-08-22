@@ -58,7 +58,7 @@ else
 	echo "Copio la directory di $GAME_TITLE, un attimo di pazienza"
 
 	if [ -d ~/.mayalinux ] ; then
-		rm -r ~/.mayalinux
+		rm -rf ~/.mayalinux
 	fi
 
 	mkdir ~/.mayalinux
