@@ -79,9 +79,7 @@ else
 
 	if [ -e /bin/grep ] ; then
 		ln -s /bin/grep ~/.mayalinux/.settings/commands/grep
-	fi
-
-	if [ -e /usr/bin/grep ]; then
+	elif [ -e /usr/bin/grep ]; then
 		# Su mac grep è in /usr/bin
 		ln -s /usr/bin/grep ~/.mayalinux/.settings/commands/grep
 	fi
